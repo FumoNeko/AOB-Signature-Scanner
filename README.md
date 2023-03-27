@@ -9,4 +9,4 @@ The script prompts you for everything, run it in IDLE or your favorite shell. Th
 There is no quit option, use CTRL+C or abort the script externally.
 
 # Known Bugs
-If you enter linebreak characters into the IDLE Terminal it will accept two inputs. Not sure if it's because python doesn't flush `input()` stdin or if it's because the terminal emulator interprets a linebreak and a prompt to move forward in the script. I'm not going to fix this, copy paste then remove the linebreaks if you have them.
+If you enter linebreak characters into the IDLE Terminal it will accept two inputs. Not sure if it's because python doesn't flush `input()` stdin or if it's because the terminal emulator interprets a linebreak as a prompt to move forward in the script. I'm not going to fix this, copy paste then remove the linebreaks if you have them.
