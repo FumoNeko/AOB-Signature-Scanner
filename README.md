@@ -3,7 +3,7 @@ A simple script designed for Array of Byte signature scanning. Compares two AOB 
 
 Written in Python 3.10.
 
-#Usage
+# Usage
 The script prompts you for everything, run it in IDLE or your favorite shell. There are no command arguments.
 
 There is no quit option, use CTRL+C or abort the script externally.
